@@ -2,4 +2,4 @@
 Learn Vue JS. The fundamentals of Vue JS (v.3). Youtube Tutorial : Vue JS Crash Course 2021 by Traversy Media
 
 ### Tutorial Video
-Watch here [Vue JS Crash Course 2021 by Traversy Media](https://youtu.be/qZXt1Aom3Cs)
+https://youtu.be/qZXt1Aom3Cs
