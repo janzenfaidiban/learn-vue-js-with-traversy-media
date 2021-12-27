@@ -2,7 +2,8 @@ module.exports = {
     devServer: {
         proxy: {
             '^/api': {
-                target: 'http://localhost:5000',
+                target: 'https://61ca05426f54ff00682aa809--sharp-booth-35a680.netlify.app:5000',
+                // target: 'http://localhost:5000',
                 changeOrigin: true,
                 logLevel: 'debug',
                 pathRewrite: { '^/api': '/' },
